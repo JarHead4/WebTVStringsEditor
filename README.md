@@ -1,6 +1,8 @@
 # WebTV/MSN TV String Editor
 A tool capable of editing the string files used by WebTV/MSN TV clients (.dir and .dat files in ROMFS under "ROM/Local"). This tool was originally written in 2021 for a WebTV Dreamcast translation project, and is now being released to the public, just in case anyone else has any intentions to modify the strings of WebTV/MSN TV based clients.
 
+More information on WebTV/MSN TV string files: http://wiki.webtv.zone/mediawiki/index.php/ROM_String_Files
+
 This program is written in C# .NET, and was originally created by wtv-411. This is also currently a work in progress, and things are currently unpolished or otherwise unfinished.
 
 # Usage
